@@ -44,3 +44,10 @@ To build a classification model that detects fraudulent credit card transactions
 **Utkarsh Singh Dahiya**
 
 **CodSoft Data Science Internship - Task 5**
+
+## Dataset
+
+The dataset is too large to upload to GitHub.
+
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
