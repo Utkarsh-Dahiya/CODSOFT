@@ -1,13 +1,13 @@
-# Sales Prediction Using Python
+# Credit Card Fraud Detection
 
 ## 📌 Overview
-This project was developed as part of the **CodSoft Data Science Internship**. The objective is to predict product sales using machine learning based on advertising expenditures across different media.
+This project was developed as part of the **CodSoft Data Science Internship**. The objective is to identify fraudulent credit card transactions using machine learning.
 
 ## 🎯 Objective
-To build a regression model that predicts sales using advertising budgets.
+To build a classification model that detects fraudulent credit card transactions.
 
 ## 📂 Dataset
-- **Dataset:** Advertising Dataset
+- **Dataset:** Credit Card Fraud Detection Dataset
 - **Source:** Kaggle
 
 ## 🛠️ Technologies Used
@@ -23,21 +23,24 @@ To build a regression model that predicts sales using advertising budgets.
 1. Import Libraries
 2. Load Dataset
 3. Data Exploration
-4. Train-Test Split
-5. Model Training using Linear Regression
-6. Model Evaluation
-7. Sales Prediction
+4. Remove Duplicate Records
+5. Train-Test Split
+6. Model Training using Logistic Regression
+7. Model Evaluation
+8. Fraud Detection
 
 ## 📈 Model Performance
-- **Algorithm:** Linear Regression
-- **R² Score:** **0.90**
+- **Algorithm:** Logistic Regression
+- **Accuracy:** **99.9%**
+
+> The model was also evaluated using Precision, Recall, and F1-Score to assess its performance on the imbalanced dataset.
 
 ## 📁 Project Files
-- Sales Prediction.ipynb
-- advertising data for codsoft task 4.csv
+- Credit Card Fraud Detection.ipynb
+- creditcard.csv
 - README.md
 
 ## 👨‍💻 Author
 **Utkarsh Singh Dahiya**
 
-**CodSoft Data Science Internship - Task 4**
+**CodSoft Data Science Internship - Task 5**
